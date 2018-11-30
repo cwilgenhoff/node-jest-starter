@@ -1,1 +1,6 @@
-# node-jest-starter
+# Node Starter
+
+## Includes:
+ - Jest
+ - Eslint
+ - Prettier

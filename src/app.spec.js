@@ -1,4 +1,4 @@
-const app = require('.');
+const app = require('./app');
 
 describe('app', () => {
   it('runs', () => {
